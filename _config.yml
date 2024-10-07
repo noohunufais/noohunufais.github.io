@@ -119,9 +119,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: noohunufais/noohunufais.github.io
-    repo_id: R_kgDOMkk0kA
+    repo_id: R_kgDOM80uTA
     category: Comments
-    category_id: DIC_kwDOMkk0kM4CiPVX
+    category_id: DIC_kwDOM80uTM4CjJPr
     mapping: pathname       # optional, default to 'pathname'
     strict: 0               # optional, default to '0'
     input_position: bottom  # optional, default to 'bottom'
